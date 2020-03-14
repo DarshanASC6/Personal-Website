@@ -1,3 +1,6 @@
-body {
-    background-color: blue;
+p {
+    font-size: 24px;
+    font-weight: bold;
+    border: 1px solid black;
+    color: pink;
 }
