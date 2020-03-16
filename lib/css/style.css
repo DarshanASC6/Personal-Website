@@ -1,6 +1,18 @@
+body{
+    background-color: 759DEB;
+}
+
 
 h1 {
     font-size: 24px;
-    color: black;
-    font-family: 'Roboto', sans-serif;
+    color: #F7F9F9;
+    font-family: 'Unica One', cursive;
+    text-align: center;
+}
+
+#app{
+    font-size: 24px;
+    color: #F7F9F9;
+    font-family: 'Courier Prime', monospace;
+    text-align: center;
 }
