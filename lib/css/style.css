@@ -1,5 +1,5 @@
 body{
-    background-color: 759DEB;
+    background-color: #759DEB;
 }
 
 
@@ -10,10 +10,10 @@ h1 {
     text-align: center;
 }
 
-h2 {
+h3 {
     font-size: 24px;
     color: #F7F9F9;
-    font-family: 'Unica One', cursive;
+    font-family:'Cabin', sans-serif;
     text-align: center;
 }
 
@@ -52,7 +52,7 @@ h2 {
 
 #contact {
     top: 80px;
-    background-color: #555;
+    background-color: #C70039;
     color: #F7F9F9;
     font-family: 'Unica One', cursive;
     text-align: center;
@@ -83,7 +83,7 @@ h2 {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
     padding: 16px;
     text-align: center;
-    background-color: 12171c;
+    background-color: #545454;
 }
 
   /* Responsive columns - one column layout (vertical) on small screens */
@@ -117,7 +117,7 @@ h2 {
     color: #1150e3;
 }
 
-.fa-envelope{
+.fa-envelope-open{
     color: #bca2aa;
 }
 
