@@ -43,20 +43,30 @@ h3 {
 }
 
 #home {
-    top: 20px;
+    top: 19px;
     background-color: rgb(0, 89, 190);
     color: #F7F9F9;
     font-family: 'Unica One', cursive;
     text-align: center;
 }
 
+/* #home:active{
+    top: 1px;
+} */
+
 #contact {
-    top: 80px;
+    top: 79px;
     background-color: #C70039;
     color: #F7F9F9;
     font-family: 'Unica One', cursive;
     text-align: center;
 }
+
+/* #contact:active{
+    top: 1px;
+} */
+
+
  /* Sidenav Ends Here */
 
 
